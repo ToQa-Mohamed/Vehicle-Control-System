@@ -1,0 +1,10 @@
+15:06:36 **** Incremental Build of configuration Debug for project miniproject_1 ****
+make all 
+Building target: miniproject_1
+Invoking: Cross GCC Linker
+gcc  -o "miniproject_1"  ./src/miniproject_1.o   
+Finished building target: miniproject_1
+ 
+
+15:06:37 Build Finished. 0 errors, 0 warnings. (took 795ms)
+

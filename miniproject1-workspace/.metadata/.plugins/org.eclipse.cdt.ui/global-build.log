@@ -1,0 +1,54 @@
+15:04:50 **** Build of configuration Debug for project miniproject_1 ****
+make all 
+Building file: ../src/miniproject_1.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/miniproject_1.d" -MT"src/miniproject_1.o" -o "src/miniproject_1.o" "../src/miniproject_1.c"
+Finished building: ../src/miniproject_1.c
+ 
+Building target: miniproject_1
+Invoking: Cross GCC Linker
+gcc  -o "miniproject_1"  ./src/miniproject_1.o   
+Finished building target: miniproject_1
+ 
+15:06:36 **** Incremental Build of configuration Debug for project miniproject_1 ****
+make all 
+Building target: miniproject_1
+Invoking: Cross GCC Linker
+gcc  -o "miniproject_1"  ./src/miniproject_1.o   
+Finished building target: miniproject_1
+ 
+15:10:17 **** Rebuild of configuration Debug for project miniproject-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\miniproject-1.o" "..\\src\\miniproject-1.c" 
+gcc -o miniproject-1.exe "src\\miniproject-1.o" 
+Info: Nothing to build for miniproject-1
+Info: Nothing to build for miniproject-1
+15:13:50 **** Incremental Build of configuration Debug for project miniproject-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\miniproject-1.o" "..\\src\\miniproject-1.c" 
+gcc -o miniproject-1.exe "src\\miniproject-1.o" 
+Info: Nothing to build for miniproject-1
+Info: Nothing to build for miniproject-1
+15:17:36 **** Incremental Build of configuration Debug for project miniproject-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\miniproject-1.o" "..\\src\\miniproject-1.c" 
+gcc -o miniproject-1.exe "src\\miniproject-1.o" 
+Info: Nothing to build for miniproject-1
+15:18:33 **** Incremental Build of configuration Debug for project miniproject-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\miniproject-1.o" "..\\src\\miniproject-1.c" 
+gcc -o miniproject-1.exe "src\\miniproject-1.o" 
+Info: Nothing to build for miniproject-1
+Info: Nothing to build for miniproject-1
+15:22:13 **** Incremental Build of configuration Debug for project miniproject-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\miniproject-1.o" "..\\src\\miniproject-1.c" 
+gcc -o miniproject-1.exe "src\\miniproject-1.o" 
+Info: Nothing to build for miniproject-1
+15:26:56 **** Incremental Build of configuration Debug for project miniproject-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\miniproject-1.o" "..\\src\\miniproject-1.c" 
+gcc -o miniproject-1.exe "src\\miniproject-1.o" 
+Info: Nothing to build for miniproject-1
+Info: Nothing to build for miniproject-1
+Info: Nothing to build for miniproject-1
